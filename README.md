@@ -35,15 +35,9 @@ This project was created to practice:
 
 ---
 
-## 📷 Preview
-
-(Add your project screenshot here)
-
----
-
 ## 🔗 Live Demo
 
-(Add your deployed link if you host it)
+( https://arunkumar619.github.io/Tripadvisor-clone_Arunkumar26018-/)
 
 ---
 
@@ -53,7 +47,7 @@ project-folder/
 
 ├── index.html  
 ├── style.css  
-└── img/  
+└── img 
 
 ---
 
